@@ -1,4 +1,5 @@
 Conflict line
+Conflict line by git.
 The new line by GitHub.
 8555
 Added line

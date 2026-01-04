@@ -1,7 +1,7 @@
-Conflict line
 Conflict line by git.
 The new line by GitHub.
 8555
 Added line
 Commit test
 5852
+Changes for git gui
